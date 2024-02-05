@@ -21,4 +21,13 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-min-gi&show_icons=true&theme=radical)
 
+##  :clipboard: Tech Stack
+
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![spring boot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-2496ED?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![intellij](https://img.shields.io/badge/IntelliJ-DD1265?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+
 </div>
