@@ -1,6 +1,6 @@
 <div align=center>
 
-### Hi there 👋
+### Hi there 😄👋
 <!--
 **Kim-min-gi/Kim-min-gi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
